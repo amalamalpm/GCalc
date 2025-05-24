@@ -59,6 +59,3 @@ GoldCalc (gcalc) is a Flutter-based gold price calculator app. It helps users ca
 
 ## License
 MIT License
-
-## Contact
-For support or feedback, email: techandreality@gmail.com
